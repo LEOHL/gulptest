@@ -1,0 +1,25 @@
+/*#main{*/
+    /*overflow: hidden;*/
+/*}*/
+/*Çå³ý¸¡¶¯*/
+#main:after{
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden;
+    clear: both;
+}
+#main div{
+    width: 45%;
+    margin-top:2%;
+    margin-right: 5%;
+    float:left;
+}
+#main h1{
+    font-size: 2em;
+    color:#333;
+}
+#main p{
+    font-size: 1.2em;
+    color:#333;
+}

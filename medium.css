@@ -1,0 +1,22 @@
+
+nav span{
+   display: none;
+}
+
+ul{
+    width: auto;
+    display: inline;
+    float:right;
+    margin-top: -3.6em;
+}
+li{
+
+    line-height: 3.6em;
+    float: left;
+    padding: 0 0.3em;
+
+}
+
+
+
+
